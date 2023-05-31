@@ -39,7 +39,7 @@
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
 
-
+![](Marta-Aziz.png)
 
 ### Submission
 * Submit a link to your forked repository in the Submission form provided in your slack channel.

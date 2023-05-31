@@ -38,6 +38,7 @@
   * Targeting an element in css using an id
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
+* When finished, add a link to your Replit here: 
 
 ![](Marta-Aziz.png)
 

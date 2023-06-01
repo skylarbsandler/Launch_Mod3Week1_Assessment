@@ -1,4 +1,4 @@
-# Week 3 Assessment
+# Week 1 Assessment
 
 ### Setup
 * Fork this repository
@@ -13,7 +13,7 @@
 
 3. Describe two parts of every HTTP request.
 
-4. How do you describe the difference between HTML and CSS, use an analogy or an example in your answer?
+4. How do you describe the difference between HTML and CSS? use an analogy or an example in your answer.
 
 5. How can the chrome dev tools help with writing html and css?
 
@@ -38,7 +38,7 @@
   * Targeting an element in css using an id
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
-* When finished, add a link to your Replit here: 
+* When finished, add a link to your Replit here: <A link to your repl here>
 
 ![](Marta-Aziz.png)
 

@@ -48,7 +48,7 @@
   * Targeting an element in css using an id
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
-* When finished, add a link to your Replit here: <A link to your repl here>
+* When finished, add a link to your Replit here: [<A link to your repl here>](https://replit.com/@SkylarSandler/Skylar-M3W1-Assessment#index.html)
 
 ![](Marta-Aziz.png)
 
